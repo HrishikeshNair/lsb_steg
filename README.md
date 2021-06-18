@@ -1,3 +1,3 @@
 # lsb_steg
 
-[Implementing LSBS](https://image-steg.netlify.app/)
+[Implementing LSBS](https://image-steg.netlify.app/notes/)
